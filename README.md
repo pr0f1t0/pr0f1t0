@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Bohdan. I am a backend developer living in Poland.<br>
+Hello, my name is Bohdan. I am .NET developer living in Poland.<br>
 
 
 ## 🌐 Socials:
