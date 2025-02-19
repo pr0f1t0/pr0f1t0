@@ -16,5 +16,5 @@ Hello, my name is Bohdan. I am web developer (.NET, Java) living in Poland.<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pr0f1t0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pr0f1t0&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0f1t0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
