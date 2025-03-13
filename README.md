@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Bohdan. I am web developer (.NET, Java) living in Poland.<br>
+Hello, my name is Bohdan. I am web developer (Java, Angular, .NET) living in Poland.<br>
 
 
 ## 🌐 Socials:
